@@ -1,0 +1,13 @@
+{
+    "name": "my-lib/my-bundle",
+    "description": "My Bundle by Symfony 3",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Firstname Lastname",
+            "email": "my-sumer@email.com"
+        }
+    ],
+    "require": {}
+}
